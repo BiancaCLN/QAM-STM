@@ -1,6 +1,6 @@
 ## System Overview
 
-![STM32 Board](STM32.jpeg)
+![STM32 Board](STM.jpeg)
 
 ## Block Diagram
 

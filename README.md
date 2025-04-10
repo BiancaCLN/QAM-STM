@@ -4,4 +4,8 @@
 
 ## Block Diagram
 
-![Block Diagram](images/diagram.png)
+![Block Diagram](block.jpeg)
+
+## FSM
+
+![FSM](graph.jpeg)
